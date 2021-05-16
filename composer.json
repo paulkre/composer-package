@@ -1,0 +1,14 @@
+{
+  "name": "paulkre/composer-package",
+  "description": "Experimental package for debugging Packagist's publishing system",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paul Kretschel",
+      "email": "paul.kretschel@icloud.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
